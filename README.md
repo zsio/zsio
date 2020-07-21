@@ -2,16 +2,14 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-200676@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:200676@gmail.com)](mailto:200676@gmail.com)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🏢 I'm currently working full-time with awesome peeps at **皮咔互娱**
-- 📖 I’m currently learning about data structures and algorithms : *https://zsio.net*
-- ⚙️ I use daily: `.jsx`, `.tsx`, `.ts`, `.js`, `.css`,`.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.go`
-- 🌱 Learning more about and studying: **Open Source, React, Golang,  Algorithms**
- - 📫 Reach me asap: <a href="https://zsio.net/">马厩</a> or 200676@gmail.com
-- 😄 Passionate about accessibility and committed to a web that works for everyone
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-------------------
+- 🏢  I'm currently working full-time with awesome peeps at **皮咔互娱**
+- 📖  I’m currently learning about data structures and algorithms : *https://zsio.net*
+- ⚙️  I use daily: `.jsx`, `.tsx`, `.ts`, `.js`, `.css`,`.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.go`
+- 🌱  Learning more about and studying: **Open Source, React, Golang,  Algorithms**
+- 📫  Reach me asap: <a href="https://zsio.net/">马厩</a> or 200676@gmail.com
+- 😄  Passionate about accessibility and committed to a web that works for everyone
+-------------------
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/zsio)](https://github.com/zsio) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/zsio)](https://github.com/zsio) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/zsio)](https://github.com/zsio) 
@@ -30,9 +28,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zsio&show_icons=false)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+--------------
 
 ⭐️ From [zsio](https://github.com/zsio/)
 
