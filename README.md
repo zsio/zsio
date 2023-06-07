@@ -7,7 +7,6 @@
 - 📖  I’m currently learning about data structures and algorithms : *https://zsio.net*
 - ⚙️  I use daily: `.jsx`, `.tsx`, `.ts`, `.js`, `.css`,`.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.go`
 - 🌱  Learning more about and studying: **Open Source, React, Golang,  Algorithms**
-- 📫  Reach me asap: <a href="https://zsio.net/">马厩</a> or 200676@gmail.com
 - 😄  Passionate about accessibility and committed to a web that works for everyone
 -------------------
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/zsio)](https://github.com/zsio) 
